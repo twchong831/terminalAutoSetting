@@ -1,5 +1,5 @@
 # install zsh
-sudo apt-get instal zsh
+sudo apt-get install zsh
 
 # convert bash to zsh
 chsh -s /usr/bin/zsh
